@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1523129642 source:c:\users\ola\documents\c++\erre\main.cpp
+	<iostream>
+	<cmath>
+	"mymath.h"
+
+1523131330 c:\users\ola\documents\c++\erre\mymath.h
+
+1523129642 source:c:\users\ola\documents\c++\erre\mymath.cpp
+	<cmath>
+
